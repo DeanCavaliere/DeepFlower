@@ -1,3 +1,0 @@
-https://medium.cmodels.htmlom/towards-artificial-intelligence/image-classification-using-deep-learning-pytorch-a-case-study-with-flower-image-data-80a18554df63
-https://www.kaggle.com/alxmamaev/flowers-recognition
-https://pytorch.org/tutorials/beginner/saving_loading_
