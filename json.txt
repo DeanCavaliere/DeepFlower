@@ -1,0 +1,4 @@
+https://www.bogotobogo.com/python/python-json-dumps-loads-file-read-write.php
+json.dump(total_dataset.class_to_idx, open("out.json","w"))
+class_to_indx=json.loads(json.load(open("out.json","r")) 
+

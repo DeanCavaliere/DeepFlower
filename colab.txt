@@ -1,0 +1,14 @@
+from google.colab import drive
+drive.mount('/content/gdrive')
+
+
+import sys
+sys.path.append('/content/gdrive/My Drive/flower/')
+
+
+from flowermodel import FlowerModel
+
+if  __name__ =='__main__':
+    a=FlowerModel()
+    a.setCuda(True)
+    a.train(60)
